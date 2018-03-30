@@ -1,4 +1,4 @@
-#This is Ansible Playbook to download wordpress on an AWS EC2 Instance
+#This is Ansible Playbook to download wordpress on an AWS EC2 Instance. Check it up
 ---
 - name: Install wordpress on a webserver
   hosts: webserver
